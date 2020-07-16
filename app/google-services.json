@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763537935948",
+    "firebase_url": "https://aircontroller-5eae5.firebaseio.com",
+    "project_id": "aircontroller-5eae5",
+    "storage_bucket": "aircontroller-5eae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763537935948:android:7ec1839236a0f35e072ee9",
+        "android_client_info": {
+          "package_name": "com.example.tempviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763537935948-pup7ms4kp8o27fjnqr3hqds3i6cvrtqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tempviewer",
+            "certificate_hash": "1e0ef64873677440b7c351d9cfe21782164987e9"
+          }
+        },
+        {
+          "client_id": "763537935948-bkcdipofqoikm43a6pmlsam9hnjmnbdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjaoywenJ0DadO2ILvXECXU38_rD6X1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763537935948-bkcdipofqoikm43a6pmlsam9hnjmnbdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
